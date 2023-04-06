@@ -2,6 +2,8 @@
 
 node.js+express connects to sql server to realize data communication and lightweight development of back-end services(node.js+express连接sql server，实现数据通信和后端服务的轻量级开发).
 
+本文主要介绍怎么通过node.js——express去连接sql server数据库
+
 #文件
 
 ##创建文件和文件夹创建新的文件方便代码的保存和整理
